@@ -2393,7 +2393,7 @@ h1.splash small {
 h1.splash::first-letter {
   font-size: 1.33em;
   color: #fff;
-  background: #f22f21;
+  background: #513970;
   border-radius: 6px;
   padding: 0 10px
 }
@@ -2480,7 +2480,7 @@ a.button.splash:hover {
 }
 
 .primary-section {
-  background: #f22f21;
+  background: #44336b;
   color: #fff
 }
 
