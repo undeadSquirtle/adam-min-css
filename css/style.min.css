@@ -3,7 +3,7 @@
   --secondary-fore-color: #444;
   --back-color: #f8f8f8;
   --secondary-back-color: #f0f0f0;
-  --blockquote-color: #44693f;
+  --blockquote-color: #f57c00;
   --pre-color: #1565c0;
   --border-color: #aaa;
   --secondary-border-color: #ddd;
@@ -2381,7 +2381,7 @@ h1.splash {
   line-height: 60vh;
   font-size: 3rem;
   font-weight: 400;
-  color: #f22f21
+  color: #3d3174
 }
 
 h1.splash small {
